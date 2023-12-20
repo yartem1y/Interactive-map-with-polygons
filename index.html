@@ -23,8 +23,7 @@
                 var polygonData = polygonsData[i];
 
                 var polygon = new ymaps.Polygon([polygonData.coordinates], {
-                    hintContent: polygonData.name,
-                    balloonContent: "Это " + polygonData.name
+                    hintContent: polygonData.name
                 }, {
                     fillColor: polygonData.fillColor,
                     strokeWidth: 2,
