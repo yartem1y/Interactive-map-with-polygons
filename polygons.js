@@ -20341,6 +20341,6 @@ var polygonsData = [
 			[56.857155671193816,60.62227504325825]
         ],
         fillColor: '#00FF0088',
-        strokeColor: '#0000FF'
+        strokeColor: '#00FF0088'
     }
 ];
