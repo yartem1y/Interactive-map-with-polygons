@@ -20231,8 +20231,8 @@ var polygonsData = [
         strokeColor: '#0000FF'
     },
 	{
-	    "name": "Казань",
-	    "coordinates": [
+    "name": "Казань",
+    "coordinates": [
         [55.892304, 49.260206],
         [55.900220, 49.200639],
         [55.910877, 49.208536],
@@ -20344,9 +20344,6 @@ var polygonsData = [
     "fillColor": "#00FF0088",
     "strokeColor": "#0000FF"
 }
-	
-
-
 
 
 	
