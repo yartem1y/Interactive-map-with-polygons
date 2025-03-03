@@ -20345,6 +20345,5 @@ var polygonsData = [
     "strokeColor": "#0000FF"
 }
 
-
 	
 ];
