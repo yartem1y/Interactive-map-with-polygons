@@ -1,4 +1,4 @@
-[
+var polygonsData = [
     {
         "name": "Агрыз распределение",
         "coordinates": [
@@ -110007,3 +110007,4 @@
         "strokeColor": "#0000FF"
     }
 ]
+  
